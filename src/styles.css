@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(236, 246, 247);
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+li span {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+li button {
+  cursor: pointer;
+}
